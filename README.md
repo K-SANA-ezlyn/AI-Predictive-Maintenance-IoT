@@ -19,5 +19,9 @@ NASA CMAPSS Dataset
 - Accuracy score
 - CSV output
 
-## Run
+## Tech Stack
+Python, Scikit-learn, Pandas
+
+## How to Run
+pip install -r requirements.txt  
 python main.py
